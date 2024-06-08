@@ -694,7 +694,7 @@ GROUP BY
 ORDER BY 
     TotalSpending DESC;
 
--- 42. What is the total revenue of the company.
+-- 42. What is the total revenueÂ ofÂ theÂ company.
 SELECT 
     SUM(TotalDue) AS TotalRevenue
 FROM 
